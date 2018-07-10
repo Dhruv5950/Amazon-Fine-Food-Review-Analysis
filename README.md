@@ -1,6 +1,8 @@
 # Amazon-Fine-Food-Review-Analysis
 Visualization and modeling on Amazon Fine Food Review Dataset
 
+dataset = https://www.kaggle.com/snap/amazon-fine-food-reviews
+
 Install Python-3 and install conda and open Jupyter Notebook and download dataset from link given in Requirements.txt.
 
 1st run Amazon_Fine_Food_Visualization
