@@ -16,3 +16,7 @@ Install Python-3 and install conda and open Jupyter Notebook and download datase
 5th run Amazon_Fine_Food_Decision_tree
 
 The main Objective is to visualize the data set and apply various models and see which one performs better with respect to other on various performance metrics.
+
+
+
+![Amazon-Fine-Food](https://nycdatascience.com/blog/wp-content/uploads/2016/04/NewCover.png)
